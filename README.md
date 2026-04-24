@@ -1,6 +1,6 @@
 # enmap-box-exampledata
 
-This repository did not contain the actual data. Data is stored here:
+This repository does not contain the actual data. Data is stored here:
 
 Potsdam dataset (current): https://github.com/EnMAP-Box/enmap-box/tree/main/enmapbox/exampledata
 
